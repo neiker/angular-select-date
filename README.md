@@ -1,4 +1,4 @@
-Basic example:
+## Basic example:
 
 ```html
 <select-date name="birth_date" required min="100 years ago" max="18 years ago">
@@ -19,10 +19,11 @@ Basic example:
 </select-date>
 ```
 
-Will result in:
+#### Will result in:
+
 ![Example](http://g.recordit.co/B3GCzZhsMq.gif)
 
-TODO:
+## TODO:
 * Write a better README
 * More tests
 * Publish in npm and maybe in bower
