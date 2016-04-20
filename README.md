@@ -27,3 +27,4 @@
 * Write a better README
 * More tests
 * Publish in npm and maybe in bower
+* Live demo
