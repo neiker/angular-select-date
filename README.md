@@ -22,4 +22,7 @@ Basic example:
 Will result in:
 ![Example](http://g.recordit.co/B3GCzZhsMq.gif)
 
-TODO: Write a better README
+TODO:
+* Write a better README
+* More tests
+* Publish in npm and maybe in bower
